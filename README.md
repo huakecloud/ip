@@ -18,7 +18,7 @@ pip3 install redis tornado
 ### Clone项目
 
 ```
-git clone https://github.com/Germey/ADSLProxyPool.git
+git clone https://github.com/huakecloud/ip.git
 ```
 
 ### 安装Redis
@@ -60,7 +60,7 @@ pip3 install requests
 ### Clone项目
 
 ```
-git clone https://github.com/Germey/ADSLProxyPool.git
+git clone https://github.com/huakecloud/ip.git
 ```
 
 
